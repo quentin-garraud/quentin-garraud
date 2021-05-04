@@ -1,4 +1,4 @@
-👋 Salut, moi c'est @quentin-garraud !
+# 👋 Salut, moi c'est Quentin !
 
 💻 Développeur & Designer basé à Bordeaux en France. Je me forme continuellement sur de nouveaux outils et de nouvelles technologies !
 Passionné par les nouvelles technologies, je suis en quête de nouvelles expériences afin d'agrandir mes compétences dans ce beau monde du numérique.
