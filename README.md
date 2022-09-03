@@ -5,7 +5,5 @@ Passionné par les nouvelles technologies, je suis en quête de nouvelles expér
 
 👀 Je te propose de suivre mon aventure sur mon site https://garraud.fr, et de regarder mes projets sur ce GitHub !
 
-👉 Tu peux me contacter si tu as des idées de projets en tête !  
-
 💌 quentin[at]garraud.fr
 🌐 garraud.fr
